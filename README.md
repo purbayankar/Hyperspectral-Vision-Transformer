@@ -4,3 +4,5 @@ A PyTorch implementation of CNN+Vision Transformer for hyperspectral image class
 Vision Transformer paper: https://arxiv.org/pdf/2010.11929.pdf<br/>
 ViT code taken from: https://github.com/lucidrains/vit-pytorch<br/>
 
+<img src="vit.png"/>
+
